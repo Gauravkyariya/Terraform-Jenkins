@@ -1,4 +1,5 @@
 # Terraform with Jenkins.
+# This is a declarative approach or method.
 
 pipeline {
     agent any
